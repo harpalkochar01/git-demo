@@ -2,7 +2,5 @@
 
 This is the first file in the git repo
 
-## ipsum below 
-this is hip text
-
-## some more ipsum
+## Website contents
+1. index.html
